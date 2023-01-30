@@ -12,7 +12,7 @@ import re
 #   find the new-line chars, 
 #   and replace them with their .NFO counterpart.
 
-path = "/Users/etdirksen/Documents/Coding/"
+path = "C:\\Users\\etdir\\Documents\\python_scripts\\yt_dl_nfo_fix\\resources\\"
 dir_list = os.listdir(path)
 
 for file in dir_list:
