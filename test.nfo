@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>This is a test NFO file</title>
+    <compilation>false</compilation> <!-- true / false -->
+    <boxset>false</boxset> <!-- true / false -->
+    <plot>This is just a test.
+    
+    Most NFO files that I will come across will be from downloaded movie or tv show files. This can be movies from being torrented or YouTube videos that I download with yt-dlp.
+    
+    Most of these files will have bad formatting, so the program I am writing is supposed to fix that.</plot>
+    <releasedate>2023-01-23</releasedate> <!-- yyyy-mm-dd -->
+    <rating max="10">8</rating>
+    <userrating max="10">9</userrating>
+    <year>2013</year>
+</movie>
